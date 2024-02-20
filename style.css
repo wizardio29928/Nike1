@@ -86,7 +86,7 @@ header {
 }
 /* ###################################################intro############################################################################# */
 .intro-section {
-    background-image: url(img/fon1.png);
+    background-image: url(fon1.png);
     background-size: cover;
     background-position: center;
     height: 858px;
@@ -136,7 +136,7 @@ header {
 }
 /* ###################################################feature################################################################## */
 .features-section {
-    background-image: url(img/fon2.png);
+    background-image: url(fon2.png);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -193,7 +193,7 @@ header {
 }
 /* ###################################################reviews############################################################### */
 .reviews-section {
-    background-image: url(img/fon3.png);
+    background-image: url(fon3.png);
     background-size: cover;
     background-position: center;
     height: 520px;
@@ -291,7 +291,7 @@ header {
 /* #################################################order####################################################################### */
 .order-section {
     color: #959595;
-    background-image: url(img/fon4.png);
+    background-image: url(fon4.png);
     background-size: cover;
     background-position: center;
     height: 509px;
